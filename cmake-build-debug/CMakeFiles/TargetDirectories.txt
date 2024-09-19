@@ -1,0 +1,3 @@
+/home/avasam/CLionProjects/Array_Problem_7/cmake-build-debug/CMakeFiles/Array_Problem_7.dir
+/home/avasam/CLionProjects/Array_Problem_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/avasam/CLionProjects/Array_Problem_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
